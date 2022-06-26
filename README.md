@@ -1,6 +1,6 @@
-# nslookup
-Find DNS records for a domain name!
-
+# Nslookup
+ A python tool for querying the Domain Name System (DNS) to obtain the mapping between domain name and IP address, or other DNS records.
+ 
 ## INSTALLING DEPENDENCIES
 [Npcap](https://npcap.com/#download "Npcap\n")
 ```bash
@@ -8,11 +8,11 @@ pip install scapy
 ```
 
 ## HOW TO START
-```bash
+```
 python nslookup.py <domain name>
 ```
 or
-```bash
+```
 python nslookup.py -type=PTR <ip address>
 ```
 
