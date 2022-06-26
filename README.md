@@ -3,16 +3,16 @@ Find DNS records for a domain name!
 
 ## INSTALLING DEPENDENCIES
 [Npcap](https://npcap.com/#download "Npcap\n")
-```python
+```bash
 pip install scapy
 ```
 
 ## HOW TO START
-```python
+```bash
 python nslookup.py <domain name>
 ```
 or
-```python
+```bash
 python nslookup.py -type=PTR <ip address>
 ```
 
