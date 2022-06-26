@@ -2,13 +2,13 @@
 Find DNS records for a domain name!
 
 ## INSTALLING DEPENDENCIES
-[Npcap](https://npcap.com/#download "Npcap")
-`pip install scapy`
+[Npcap](https://npcap.com/#download "Npcap\n")
+> `pip install scapy`
 
 
 ## HOW TO START
-`python nslookup.py <domain name>`  
-`python nslookup.py -type=PTR <ip address>`
+> `python nslookup.py <domain name>`  
+> `python nslookup.py -type=PTR <ip address>`
 
 
 ## Exapmles
