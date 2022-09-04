@@ -1,5 +1,6 @@
 # Nslookup
  A python tool for querying the Domain Name System (DNS) to obtain the mapping between domain name and IP address, or other DNS records.
+ In addition, this tool supports reverse mapping.
  
 ## INSTALLING DEPENDENCIES
 [Npcap](https://npcap.com/#download "Npcap\n")
